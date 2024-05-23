@@ -1,0 +1,35 @@
+*{
+
+    margin:40px;
+}
+body{
+    border: 3px solid black;
+}
+.intro{
+    position:relative;
+    margin:600px auto0;
+    border:2px solid;
+    width: 50vw;
+    height:70vh;
+    padding:20px;
+}
+.img{
+    position:absolute;
+    background-color: blueviolet;
+    bottom:580px;
+    left:1300px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse 
+    
+}
+th,td{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 30px
+}
+media only screen and (max-width:600px){
+    .class{
+        width:15vw;
