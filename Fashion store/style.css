@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    list-style: none;
+}
+
+.anchor a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+nav{
+    background-color: rgb(208, 248, 31);
+}
+footer{
+    border: 2px;
+    box-sizing:border-box;
+    border-color: black;
+    background-color: rgb(132, 109, 26);
+    padding-left: 50%;
+    color: white;
+    margin-top: 5%;
+}
